@@ -47,6 +47,37 @@ Hi, I'm **Jhansen Wilson** — a passionate **Full-Stack Developer** who loves b
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/LeonPradagon/acs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=acs&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/LeonPradagon/aksara">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=aksara&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/LeonPradagon/Streaming-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=Streaming-platform&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/LeonPradagon/monitor-expenses">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=monitor-expenses&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/LeonPradagon/Rebuilt-Durasi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=Rebuilt-Durasi&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🔄 Recently Updated
+
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
