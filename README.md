@@ -60,8 +60,8 @@ Hi, I'm **Jhansen Wilson** — a passionate **Full-Stack Developer** who loves b
 <a href="https://github.com/LeonPradagon/Streaming-platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=Streaming-platform&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/LeonPradagon/monitor-expenses">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=monitor-expenses&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/LeonPradagon/monitoring-expenses">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=monitoring-expenses&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/LeonPradagon/Rebuilt-Durasi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonPradagon&repo=Rebuilt-Durasi&theme=tokyonight&hide_border=true" />
